@@ -19,7 +19,7 @@ axum = {version = "0.3.1", features = ["headers"]}
 async-graphql = {version = "2.11.1", features = ["chrono", "uuid"]}
 slab = "0.4.4"
 tokio = { version = "1.11.0", features = ["macros", "time", "rt-multi-thread"] }
-uuid = {version = "0.8.2", features = ["serde","v4"]}
+uuid = {version = "1.1.2", features = ["serde","v4"]}
 chrono = "0.4.19"
 fake = "2.4.1"
 serde = { version="1", features = ["derive"] }
