@@ -24,7 +24,7 @@ chrono = "0.4.19"
 fake = "2.4.1"
 serde = { version="1", features = ["derive"] }
 serde-aux = "3.0.1"
-config = "0.11.0"
+config = "0.13.1"
 tracing = "0.1.26"
 hyper = "0.14.12"
 argon2 = "0.3.1"
